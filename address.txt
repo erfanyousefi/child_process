@@ -1,0 +1,5 @@
+#!/usr/local/bin/node
+
+#!/usr/bin/env python3
+
+#!/bin/bash
